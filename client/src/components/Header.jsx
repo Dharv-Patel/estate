@@ -24,7 +24,7 @@ export default function Header() {
                     <span className='cursor-pointer hover:font-semibold'>About</span>
                 </Link>
                 <Link to='/Sign-in'>
-                    <span className='cursor-pointer hover:font-semibold'>SignIn</span>
+                    <span className='cursor-pointer hover:font-semibold'>Sign In</span>
                 </Link>
             </div>
         </div>
